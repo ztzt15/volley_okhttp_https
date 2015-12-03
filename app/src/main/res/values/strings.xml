@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">volley_okhttp_https</string>
+    <string name="action_settings">Settings</string>
+</resources>
